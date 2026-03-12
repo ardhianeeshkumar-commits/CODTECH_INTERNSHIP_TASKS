@@ -22,7 +22,7 @@ Uses content and style loss optimization.
 
 ---
 
-## TASK 4: GPT-2 Text Generation
+## TASK 4: Text Generation
 Advanced language model for generating coherent paragraphs.  
 Customizable temperature, top-k, and top-p sampling.  
 Creates contextually relevant text from prompts.
