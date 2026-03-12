@@ -1,1 +1,1 @@
-# CODTECH_INTERNSHIP_TASKS
+Complete documentation of all 4 internship tasks including NLP text summarization, speech recognition, neural style transfer, and text generation using GPT-2.
