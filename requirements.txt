@@ -1,0 +1,9 @@
+sumy
+speech_recognition
+torch
+torchvision
+transformers
+pillow
+matplotlib
+imageio
+other-required-packages
